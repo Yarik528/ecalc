@@ -44,7 +44,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecalc.git
+git clone https://github.com/Yarik528/ecalc.git
 cd ecalc
 ```
 
