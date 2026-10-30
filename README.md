@@ -2,7 +2,9 @@
 
 Современный калькулятор с минималистичным дизайном, написанный на Flutter.
 
-![eCalc Screenshot](screenshots/demo.png)
+<p align="center">
+  <img src="screenshots/demo.png" alt="eCalc" width="300">
+</p>
 
 ## Возможности
 
